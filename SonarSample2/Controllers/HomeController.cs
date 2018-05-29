@@ -26,5 +26,20 @@ namespace SonarSample2.Controllers
 
             return View();
         }
+
+        public void Garbage()
+        {
+            var a = 0;
+            int b;
+            int c;
+            int d;
+            int e;
+            int f;
+            int g;
+            int h;
+            int i;
+            int j;
+
+        }
     }
 }
